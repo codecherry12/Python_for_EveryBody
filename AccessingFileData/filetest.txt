@@ -1,0 +1,13 @@
+ G PULLA REDDY ENGINEERING COLLEGE
+                DEPARTMENT OF EEE
+                    MINI PROJECT-1
+                        ABSTRACT
+Title: Arduino based digital ammeter and digital voltmeter
+Ammeter and voltmeter are used to measure current flow and voltage across any load or device. Here in this Arduino ammeter and Arduino voltmeter, we will explain about measuring of current and voltage by using Ohm’s law. The main purpose of this project is to overcome the defects of the analog ammeter and voltmeter. In this project we are going to design the digital ammeter upto the range of 2 amperes and voltmeter upto the range of 50volts.
+                                                          
+                                                          Group B-11
+GUIDE:                                             TEAM MEMBERS:
+Dr.B.Urmila                                     189X1A0238-M.Guru Charan
+Associate professor                       199X5A02C2-R.Dasthagiri 
+EEE department.                            189X1A0246-S.Hima Bindu
+Signature of the guide:                  189X1A0209-G.Geethika
